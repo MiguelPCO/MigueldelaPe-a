@@ -6,4 +6,9 @@ public class metodos {
 		String var2 = new String("hola");
 		String concat1 = var2.concat(var1);
 }
+	public static void numero( ) {
+		
+		char a = 65;
+		System.out.println(a);
+	}
 }
