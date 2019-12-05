@@ -11,4 +11,10 @@ public class metodos {
 		char a = 65;
 		System.out.println(a);
 	}
+	public static void asci() {
+		char b = 3;
+		double c = (double)b;
+		System.out.println(c);
+	}
 }
+
